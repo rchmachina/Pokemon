@@ -1,0 +1,21 @@
+.pokemon {
+    display: inline-block;
+    text-align: center;
+}
+.container .myButton{
+    text-align: center;
+    color: blue;
+    background: rgb(76, 10, 10);
+}
+.pokemon .card img {
+    display: block;
+}
+
+
+.pokemon .card {
+    width: 190px;
+    height: 254px;
+    border-radius: 30px;
+    background: rgb(128, 116, 116);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 50px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 26px -18px inset;
+  } 
